@@ -1,0 +1,17 @@
+.category-list {
+  list-style: none;
+}
+
+.category-headings {
+  font-size: 24px;
+  font-family: 'Roboto';
+}
+
+.hr-line {
+  width: 90%;
+}
+
+.category-container {
+  width: 90%;
+  padding: 10px;
+}
